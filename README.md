@@ -6,8 +6,8 @@ Site web documentaire réalisé sur une personnalité scientifique avec HTML, CS
 
 Projet réalisé en binôme par :
 
-- Yasmine [NOM]
-- Jérémie [NOM]
+- Yasmine CHEBLAL
+- Nour-Elhouda Bourouina
 
 ## Description
 

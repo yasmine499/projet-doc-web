@@ -1,0 +1,5 @@
+pandoc -t html4 MarkDown/index.md -o HTML/index.html --metadata-file=YAML/metadata.yml --template=YAML/template.html
+pandoc -t html4 MarkDown/biographie.md -o HTML/biographie.html --metadata-file=YAML/metadata.yml --template=YAML/template.html
+pandoc -t html4 MarkDown/travaux.md -o HTML/travaux.html --metadata-file=YAML/metadata.yml --template=YAML/template.html
+pandoc -t html4 MarkDown/impact.md -o HTML/impact.html --metadata-file=YAML/metadata.yml --template=YAML/template.html
+pandoc -t html4 MarkDown/sources.md -o HTML/sources.html --metadata-file=YAML/metadata.yml --template=YAML/template.html

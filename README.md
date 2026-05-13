@@ -1,30 +1,28 @@
-# Site web documentaire — Personnalité scientifique
+# ProjetDocWeb
+
+Site web documentaire réalisé sur une personnalité scientifique avec HTML, CSS, Markdown et YAML.
+
+## Auteurs
+
+Projet réalisé en binôme par :
+
+- Yasmine [NOM]
+- Jérémie [NOM]
+
+## Description
 
 Ce projet est un site web documentaire consacré à une personnalité scientifique.  
-Il a été développé dans le cadre d’un projet HTML/CSS afin de présenter de manière claire et structurée sa biographie, ses travaux, ses découvertes et son impact dans le domaine scientifique.
-
-## Lancer le site
-
-Le fichier principal du site se trouve ici : `HTML/index.html`
-
+Il présente sa biographie, ses travaux, son impact scientifique ainsi que les sources utilisées.
 
 ## Technologies utilisées
 
 - HTML : structure des pages web
-- CSS : mise en forme et design du site
-- Markdown : rédaction et organisation du contenu
-- YAML : gestion de certaines données et structure du projet
+- CSS : mise en forme du site
+- Markdown : rédaction du contenu
+- YAML : organisation de certaines données du projet
 
-## Contenu du site
+## Lancer le site
 
-Le site contient plusieurs pages présentant :
+Le fichier principal du site se trouve ici :
 
-- la biographie de la personnalité scientifique ;
-- ses principales découvertes ;
-- ses travaux et recherches ;
-- son impact dans le monde scientifique ;
-- les sources utilisées pour le projet.
-
-## Objectif du projet
-
-L’objectif était de créer un site web organisé, lisible et esthétique, tout en utilisant plusieurs langages et formats adaptés à la création de contenu web.
+`HTML/index.html`

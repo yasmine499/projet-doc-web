@@ -3,6 +3,11 @@
 Ce projet est un site web documentaire consacré à une personnalité scientifique.  
 Il a été développé dans le cadre d’un projet HTML/CSS afin de présenter de manière claire et structurée sa biographie, ses travaux, ses découvertes et son impact dans le domaine scientifique.
 
+## Lancer le site
+
+Le fichier principal du site se trouve ici : `HTML/index.html`
+
+
 ## Technologies utilisées
 
 - HTML : structure des pages web
